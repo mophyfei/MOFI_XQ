@@ -4,6 +4,18 @@
 
 ---
 
+## ⚡ 一鍵匯入工具（推薦）
+
+> [!TIP]
+> **不想一個一個複製貼上？用我寫的匯入工具，一鍵把腳本灌進 XQ。**
+>
+> ### 👉 [點此下載 XQ 腳本匯入工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
+>
+> 下載後雙擊執行，依指示選擇要匯入的腳本即可，免手動編譯。
+> （或到 [Releases 發佈頁](https://github.com/mophyfei/MOFI_XQ/releases/latest) 查看所有版本）
+
+---
+
 ## 🔑 我的專屬優惠碼：`@MOFI`
 
 > [!IMPORTANT]
@@ -18,7 +30,7 @@
 
 ## 📖 這是什麼
 
-本 repo 收錄我（老墨）自製的 **XScript（XS）** 腳本，運行於 <a href="https://www.xq.com.tw/" target="_blank" rel="noopener">XQ 全球贏家</a> 平台，
+本 repo 收錄我（老墨）自製的 **XScript（XS）** 腳本，運行於 [XQ 全球贏家](https://www.xq.com.tw/) 平台，
 涵蓋技術指標、籌碼分析、選股策略、即時警示與自動交易，主要聚焦台股。
 
 部分腳本為**綁定 `@MOFI` 優惠碼的朋友專屬**，綁碼後即可解鎖。
@@ -30,13 +42,21 @@
 
 ## 🚀 如何匯入 XQ
 
-**方式 A — 直接貼上**
+### 方式 A — 一鍵匯入工具（最簡單）✅
+
+1. [下載 XQ 腳本匯入工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
+2. 雙擊執行
+3. 依指示選擇要匯入的腳本，按確認 ——完成！
+
+### 方式 B — 手動匯入（進階）
+
+**直接貼上**
 1. 開啟 XQ 全球贏家
 2. 選單：**策略(D) → XScript 編輯器(E)**
 3. 點「新增腳本」→ 選對應類別（指標/選股/警示/交易）
 4. 貼上 `.xs` 內容，按 **F6 編譯**
 
-**方式 B — 開啟 .xs 檔**
+**或開啟 .xs 檔**
 1. XScript 編輯器 → **檔案 → 開啟 XS 檔案**
 2. 選擇下載的 `.xs`，按 **F6 編譯**
 
@@ -54,7 +74,7 @@
 ## 🔓 如何解鎖專屬腳本
 
 1. 在 XQ 全球贏家綁定優惠碼 **`@MOFI`**
-2. 匯入腳本後按 F6 編譯
+2. 用[匯入工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)或手動匯入腳本後按 F6 編譯
 3. 完成 ✅ —— 若仍跳出「請綁定優惠碼」提示，請確認綁定帳號與登入帳號一致
 
 ---
@@ -69,6 +89,6 @@
 
 ## 📮 聯絡老墨
 
-- ▶️ YouTube：<a href="https://www.youtube.com/@mofi.investment" target="_blank" rel="noopener">@mofi.investment</a>
-- 📘 Facebook：<a href="https://www.facebook.com/mofi.investment" target="_blank" rel="noopener">mofi.investment</a>
+- ▶️ YouTube：[@mofi.investment](https://www.youtube.com/@mofi.investment)
+- 📘 Facebook：[mofi.investment](https://www.facebook.com/mofi.investment)
 - 📧 Email：mophyfei@gmail.com
