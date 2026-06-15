@@ -1,6 +1,22 @@
-# 老墨的 XQ XScript 腳本庫
+<div align="center">
 
-> XQ 全球贏家（嘉實資訊）XScript 交易腳本收藏 — 指標 / 選股 / 警示 / 交易 / 函數
+# 📊 老墨的 XQ XScript 腳本庫
+
+**XQ 全球贏家（嘉實資訊）自製 XScript 指標收藏**
+
+<sub>依五大觀測面分類 · 每支附圖文說明頁 · 一鍵匯入 · 綁定 `@MOFI` 解鎖</sub>
+
+<br>
+
+![腳本](https://img.shields.io/badge/腳本-5_支-3DDC84?style=flat-square)
+![分類](https://img.shields.io/badge/分類-5_大觀測面-4C8BF5?style=flat-square)
+![平台](https://img.shields.io/badge/平台-XQ_全球贏家-00A1E0?style=flat-square)
+![市場](https://img.shields.io/badge/市場-台股_×_美股-9333EA?style=flat-square)
+![優惠碼](https://img.shields.io/badge/解鎖-綁定_@MOFI-FF6B6B?style=flat-square)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -8,113 +24,92 @@
 
 **本庫腳本需綁定優惠碼 `@MOFI` 才能解鎖使用**；綁定 `@MOFI` 為 XQ 平台官方推薦活動，可獲 XQ 點數 100 點折抵 👇
 
-<img src="XQ%20Code.png" width="620" alt="輸入優惠碼 @MOFI，獲得 XQ 點數 100 點折抵">
+<img src="XQ%20Code.png" width="640" alt="輸入優惠碼 @MOFI，獲得 XQ 點數 100 點折抵">
 
 📣 **利益揭露**：綁定 `@MOFI` 為 XQ 平台官方推薦活動；老墨將因您綁定取得平台回饋（屬商業合作關係）。
 
+<br>
+
+[![下載一鍵匯入工具](https://img.shields.io/badge/🚀_下載_一鍵匯入工具-2563EB?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
+
 </div>
 
----
-
-## ⚡ 一鍵匯入工具（推薦）
-
-> [!TIP]
-> **不想一個一個複製貼上？用我寫的匯入工具，一鍵把腳本灌進 XQ。**
->
-> ### 👉 [點此下載 XQ 腳本匯入工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
->
-> 下載後雙擊執行，依指示選擇要匯入的腳本即可，免手動編譯。
-> （或到 [Releases 發佈頁](https://github.com/mophyfei/MOFI_XQ/releases/latest) 查看所有版本）
-
----
-
-## 🔑 我的專屬優惠碼：`@MOFI`
-
-> [!IMPORTANT]
-> **本庫部分腳本為「綁定我的優惠碼 @MOFI 的朋友」專屬使用。**
->
-> 這些腳本內建鎖碼機制 —— 只要你在 XQ 綁定優惠碼 **`@MOFI`**，
-> 就能直接解鎖使用；未綁定者執行時會跳出提示訊息。
->
-> 👉 **綁定優惠碼 `@MOFI`，即可解鎖全部專屬腳本。**
-
----
-
-## 📖 這是什麼
-
-本 repo 收錄我（老墨）自製的 **XScript（XS）** 腳本，運行於 [XQ 全球贏家](https://www.xq.com.tw/) 平台，
-涵蓋技術指標、籌碼分析、選股策略、即時警示與自動交易，主要聚焦台股。
-
-部分腳本為**綁定 `@MOFI` 優惠碼的朋友專屬**，綁碼後即可解鎖。
-
-> ⚠️ **免責聲明**：所有腳本僅供技術研究與教學用途，不構成任何投資建議。
-> 程式邏輯可能存在錯誤或資料延遲，據此操作之盈虧由使用者自行負責。
+> ⚠️ **免責聲明**：本庫所有腳本為**中性技術分析輔助工具**，僅供技術研究與教學，**不構成任何投資建議、不保證獲利**。老墨**非**經主管機關核准之證券投資顧問事業。程式邏輯或資料可能有誤差，據此操作之盈虧由使用者自行負責。
 
 ---
 
 ## 📚 腳本目錄
 
-腳本依**觀測面**分類，每個腳本都有獨立的「圖文說明頁」，點進去可看用法、效果與下載連結。
+腳本依**觀測面**分類，每支都有獨立的圖文說明頁，點進去看用法、效果與下載。
 
-| 分類 | 腳本 | 說明 | 連結 |
-|------|------|------|------|
-| 🌍 總體環境 | **風險偏好性指標（台股×美股）** | 用攻擊/防守類比率判讀市場 Risk On／Off，附懶人包看盤頁面 | [📄 說明頁](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/) |
-| 🏢 基本面 | **本益比通道（PE 標準差通道）** | 以平均本益比 ±1/±2 標準差畫通道，看估值落在自身歷史的相對位置 | [📄 說明頁](02.%20%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%A7%80%E6%B8%AC/%E6%9C%AC%E7%9B%8A%E6%AF%94%E9%80%9A%E9%81%93/) |
-| 📈 技術面 | **SUPER TREND PRO MAX** | SuperTrend 趨勢線 + 過去 10 年趨勢延續的歷史統計（平均長度、歷史延續機率） | [📄 說明頁](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88%20SUPER%20TREND%20PRO%20MAX/) |
-| 💰 籌碼面 | **大盤融資維持率** | 大盤融資戶槓桿安全度溫度計，跌破自訂標準線自動填色警示 | [📄 說明頁](04.%20%E7%B1%8C%E7%A2%BC%E9%9D%A2%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/) |
-| 📅 事件面 | **處置警示倒數計時器** | 自動倒數台股處置／注意股的解禁天數，主圖頂端 5→0 標示，一眼看出何時解除限制 | [📄 說明頁](05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/) |
+| 分類 | 腳本 | 一句話 | 說明頁 |
+|:---:|------|------|:---:|
+| 🌍<br>總體環境 | **風險偏好性指標**<br><sub>台股 × 美股</sub> | 用攻擊／防守類比率判讀市場 Risk On／Off，附懶人包看盤頁面 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/) |
+| 🌍<br>總體環境 | **大盤融資維持率** | 大盤融資戶槓桿安全度溫度計，跌破自訂標準線自動填色警示 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/) |
+| 🏢<br>基本面 | **本益比通道**<br><sub>PE 標準差通道</sub> | 以平均本益比 ±1／±2 標準差畫通道，看估值落在自身歷史的相對位置 | [📄](02.%20%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%A7%80%E6%B8%AC/%E6%9C%AC%E7%9B%8A%E6%AF%94%E9%80%9A%E9%81%93/) |
+| 📈<br>技術面 | **SUPER TREND PRO MAX** | SuperTrend 趨勢線 ＋ 過去 10 年趨勢延續的歷史統計 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88%20SUPER%20TREND%20PRO%20MAX/) |
+| 💰<br>籌碼面 | _陸續更新中…_ | | |
+| 📅<br>事件面 | **處置警示倒數計時器** | 自動倒數台股處置／注意股的解禁天數，主圖頂端 5→0 標示 | [📄](05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/) |
 
----
-
-## 🚀 如何匯入 XQ
-
-### 方式 A — 一鍵匯入工具（最簡單）✅
-
-1. [下載 XQ 腳本匯入工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
-2. 雙擊執行
-3. 依指示選擇要匯入的腳本，按確認 ——完成！
-
-### 方式 B — 手動匯入（進階）
-
-**直接貼上**
-1. 開啟 XQ 全球贏家
-2. 選單：**策略(D) → XScript 編輯器(E)**
-3. 點「新增腳本」→ 選對應類別（指標/選股/警示/交易）
-4. 貼上 `.xs` 內容，按 **F6 編譯**
-
-**或開啟 .xs 檔**
-1. XScript 編輯器 → **檔案 → 開啟 XS 檔案**
-2. 選擇下載的 `.xs`，按 **F6 編譯**
-
-編譯成功後依類別啟用：
-
-| 類別 | 啟用方式 |
-|------|----------|
-| 指標 | 加入指標 → 顯示於技術分析圖 |
-| 選股 | 加入選股 → 選股中心使用 |
-| 警示 | 加入雷達 → 策略雷達監控 |
-| 交易 | 加入自動交易 → 設定自動下單 |
+<sub>🔒 全部腳本需綁定優惠碼 `@MOFI` 解鎖 · 更多腳本陸續新增中…</sub>
 
 ---
 
-## 🔓 如何解鎖專屬腳本
+## 🚀 如何安裝
 
-1. 在 XQ 全球贏家綁定優惠碼 **`@MOFI`**
-2. 用[匯入工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)或手動匯入腳本後按 F6 編譯
-3. 完成 ✅ —— 若仍跳出「請綁定優惠碼」提示，請確認綁定帳號與登入帳號一致
+**① 綁定優惠碼** — 在 XQ 全球贏家綁定 **`@MOFI`**（解鎖腳本＋拿 100 點）
+
+**② 取得腳本** — 進各腳本說明頁，下載 `.xsb`
+
+**③ 匯入 XQ** — 二選一：
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚀 一鍵匯入工具（推薦）**
+
+[下載工具](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe) → 雙擊執行 → 選腳本 → 完成，免手動編譯。
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ 手動匯入**
+
+開啟 XQ → 點「**策略**」→ **XScript 編輯器** → 點「**匯入**」→ 選 `.xsb` 檔 → 按 <kbd>F6</kbd> 編譯。
+
+</td>
+</tr>
+</table>
+
+**④ 啟用** — 加入指標 → 顯示於技術分析圖
+
+> 💡 若仍跳「請綁定優惠碼」，請確認 XQ **綁定帳號與登入帳號一致**。
 
 ---
 
-## 📜 授權與使用聲明
+## 🧩 需要的 XQ 模組
 
-本專案**保留所有權利（All Rights Reserved）**。
-腳本僅供綁定 `@MOFI` 之使用者個人學習與使用，
-**未經授權，禁止轉售、散布或商業使用**。使用者需自負操作風險。
+本庫腳本為**自訂 XScript 指標**，需訂閱含「自訂指標」功能的模組：
+
+| 模組 | 解鎖 | 適用 |
+|------|------|------|
+| **盤中量化交易模組**<br><sub>$1,000/月</sub> | 自訂指標／XScript、策略雷達、警示、回溯、自動交易 | ✅ 所有腳本必備 |
+| **盤後量化選股模組**<br><sub>$1,000/月</sub> | 財務／基本面／籌碼面等 900 資料欄位 | 🔸 繪製財務資訊時需要（如本益比通道）|
+| **美股分析模組**<br><sub>$500/月</sub> | 美股即時行情、XS 美股欄位 | 🔸 用到美股報價時才需要（如風險偏好性美股版）|
+
+> 💡 **自訂指標屬「盤中量化交易模組」**。手機僅限監控訊號，完整功能需電腦版。各腳本頁也會標註所需模組。不確定方案？看 [XQ 模組比較](https://www.xq.com.tw/module-compare/)。
 
 ---
 
-## 📮 聯絡老墨
+## 📜 授權與聯絡
 
-- ▶️ YouTube：[@mofi.investment](https://www.youtube.com/@mofi.investment)
-- 📘 Facebook：[mofi.investment](https://www.facebook.com/mofi.investment)
-- 📧 Email：mophyfei@gmail.com
+本專案**保留所有權利（All Rights Reserved）**；腳本僅供綁定 `@MOFI` 之使用者個人學習使用，**未經授權禁止轉售、散布或商業使用**。
+
+<div align="center">
+
+▶️ [YouTube @mofi.investment](https://www.youtube.com/@mofi.investment) &nbsp;·&nbsp; 📘 [Facebook mofi.investment](https://www.facebook.com/mofi.investment) &nbsp;·&nbsp; 📧 mophyfei@gmail.com
+
+<sub>老墨 XQ 腳本庫 · 解鎖優惠碼 <code>@MOFI</code></sub>
+
+</div>
