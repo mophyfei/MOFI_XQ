@@ -22,7 +22,7 @@
 
 <br><br>
 
-[![下載腳本](https://img.shields.io/badge/⬇️_下載_腳本_(.xsb)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/04.%20%E7%B1%8C%E7%A2%BC%E9%9D%A2%20-%20%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.xsb)
+[![下載腳本](https://img.shields.io/badge/⬇️_下載_腳本_(.xsb)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/01.%20%E7%92%B0%E5%A2%83%E9%9D%A2%20-%20%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.xsb)
 &nbsp;
 [![一鍵匯入工具](https://img.shields.io/badge/🚀_一鍵匯入工具-2563EB?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
 
