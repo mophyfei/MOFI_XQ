@@ -8,7 +8,7 @@
 
 <br>
 
-![腳本](https://img.shields.io/badge/腳本-5_支-3DDC84?style=flat-square)
+![腳本](https://img.shields.io/badge/腳本-6_支-3DDC84?style=flat-square)
 ![分類](https://img.shields.io/badge/分類-5_大觀測面-4C8BF5?style=flat-square)
 ![平台](https://img.shields.io/badge/平台-XQ_全球贏家-00A1E0?style=flat-square)
 ![市場](https://img.shields.io/badge/市場-台股_×_美股-9333EA?style=flat-square)
@@ -48,6 +48,7 @@
 | 🌍<br>總體環境 | **大盤融資維持率** | 大盤融資戶槓桿安全度溫度計，跌破自訂標準線自動填色警示 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/) |
 | 🏢<br>基本面 | **本益比通道**<br><sub>PE 標準差通道</sub> | 以平均本益比 ±1／±2 標準差畫通道，看估值落在自身歷史的相對位置 | [📄](02.%20%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%A7%80%E6%B8%AC/%E6%9C%AC%E7%9B%8A%E6%AF%94%E9%80%9A%E9%81%93/) |
 | 📈<br>技術面 | **SUPER TREND PRO MAX** | SuperTrend 趨勢線 ＋ 過去 10 年趨勢延續的歷史統計 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88%20SUPER%20TREND%20PRO%20MAX/) |
+| 📈<br>技術面 | **雙重颱風 K 線** | 把 K 棒依市場偏多／偏空／不明染成紅綠黃三色，一眼看懂趨勢狀態 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/) |
 | 💰<br>籌碼面 | _陸續更新中…_ | | |
 | 📅<br>事件面 | **處置警示倒數計時器** | 自動倒數台股處置／注意股的解禁天數，主圖頂端 5→0 標示 | [📄](05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/) |
 
