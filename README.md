@@ -44,14 +44,14 @@
 
 | 分類 | 腳本 | 一句話 | 說明頁 |
 |:---:|------|------|:---:|
-| 🌍<br>總體環境 | 🆕 **風險偏好性指標**<br><sub>台股 × 美股</sub> | 用攻擊／防守類比率判讀市場 Risk On／Off，附懶人包看盤頁面 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/) |<!-- 🆕 added:2026-06-15 -->
-| 🌍<br>總體環境 | 🆕 **大盤融資維持率** | 大盤融資戶槓桿安全度溫度計，跌破自訂標準線自動填色警示 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/) |<!-- 🆕 added:2026-06-15 -->
-| 🏢<br>基本面 | 🆕 **本益比通道**<br><sub>PE 標準差通道</sub> | 以平均本益比 ±1／±2 標準差畫通道，看估值落在自身歷史的相對位置 | [📄](02.%20%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%A7%80%E6%B8%AC/%E6%9C%AC%E7%9B%8A%E6%AF%94%E9%80%9A%E9%81%93/) |<!-- 🆕 added:2026-06-15 -->
-| 📈<br>技術面 | 🆕 **SUPER TREND PRO MAX** | SuperTrend 趨勢線 ＋ 過去 10 年趨勢延續的歷史統計 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/SUPER%20TREND%20PRO%20MAX%20%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88/) |<!-- 🆕 added:2026-06-15 -->
-| 📈<br>技術面 | 🆕 **雙重颱風 K 線** | 把 K 棒依市場偏多／偏空／不明染成紅綠黃三色，一眼看懂趨勢狀態 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/DOUBLE%20TYPHOON%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/) |<!-- 🆕 added:2026-06-17 -->
-| 📈<br>技術面 | 🆕 **EXCEED CHARGE 充能爆發指標** | Squeeze Momentum 進化版：壓縮分三級、動能分四色，看蓄能到爆發的節奏 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/EXCEED%20CHARGE%20%E5%85%85%E8%83%BD%E7%88%86%E7%99%BC%E6%8C%87%E6%A8%99/) |<!-- 🆕 added:2026-06-17 -->
+| 🌍<br>總體環境 | 🆕 **風險偏好性指標**<br><sub>台股 × 美股</sub> | 市場資金在衝還是在縮 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/) |<!-- 🆕 added:2026-06-15 -->
+| 🌍<br>總體環境 | 🆕 **大盤融資維持率** | 檢查全市場散戶熱度 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/) |<!-- 🆕 added:2026-06-15 -->
+| 🏢<br>基本面 | 🆕 **本益比通道**<br><sub>PE 標準差通道</sub> | 現在是貴還是便宜 | [📄](02.%20%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%A7%80%E6%B8%AC/%E6%9C%AC%E7%9B%8A%E6%AF%94%E9%80%9A%E9%81%93/) |<!-- 🆕 added:2026-06-15 -->
+| 📈<br>技術面 | 🆕 **SUPER TREND PRO MAX** | 檢查趨勢反轉神器 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/SUPER%20TREND%20PRO%20MAX%20%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88/) |<!-- 🆕 added:2026-06-15 -->
+| 📈<br>技術面 | 🆕 **雙重颱風 K 線** | 丟掉太複雜的判斷，用顏色快速檢查偏多還偏空 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/DOUBLE%20TYPHOON%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/) |<!-- 🆕 added:2026-06-17 -->
+| 📈<br>技術面 | 🆕 **EXCEED CHARGE 充能爆發指標** | 判斷盤整什麼時候結束 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/EXCEED%20CHARGE%20%E5%85%85%E8%83%BD%E7%88%86%E7%99%BC%E6%8C%87%E6%A8%99/) |<!-- 🆕 added:2026-06-17 -->
 | 💰<br>籌碼面 | _陸續更新中…_ | | |
-| 📅<br>事件面 | 🆕 **處置警示倒數計時器** | 自動倒數台股處置／注意股的解禁天數，主圖頂端 5→0 標示 | [📄](05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/) |<!-- 🆕 added:2026-06-15 -->
+| 📅<br>事件面 | 🆕 **處置警示倒數計時器** | 處置股還剩幾天能動 | [📄](05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/) |<!-- 🆕 added:2026-06-15 -->
 
 <sub>🆕 ＝最近 7 天新加入 · 🔒 全部腳本需綁定優惠碼 `@MOFI` 解鎖 · 更多腳本陸續新增中…</sub>
 
@@ -65,31 +65,31 @@
 <tr>
 <td width="50%" align="center">
 <a href="03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/EXCEED%20CHARGE%20%E5%85%85%E8%83%BD%E7%88%86%E7%99%BC%E6%8C%87%E6%A8%99/"><img src="03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/EXCEED%20CHARGE%20%E5%85%85%E8%83%BD%E7%88%86%E7%99%BC%E6%8C%87%E6%A8%99/assets/cover.png" width="430" alt="EXCEED CHARGE 充能爆發指標"></a><br>
-<b>🆕 EXCEED CHARGE 充能爆發指標</b><br><sub>壓縮蓄能 → 爆發噴出，四色動能柱</sub>
+<b>🆕 EXCEED CHARGE 充能爆發指標</b><br><sub>解決的問題：判斷盤整什麼時候結束</sub>
 </td>
 <td width="50%" align="center">
 <a href="03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/DOUBLE%20TYPHOON%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/"><img src="03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/DOUBLE%20TYPHOON%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/assets/cover.png" width="430" alt="雙重颱風 K 線"></a><br>
-<b>🆕 雙重颱風 K 線</b><br><sub>紅偏多／綠偏空／黃不明，三色趨勢狀態</sub>
+<b>🆕 雙重颱風 K 線</b><br><sub>解決的問題：用顏色快速檢查偏多還偏空</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <a href="03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/SUPER%20TREND%20PRO%20MAX%20%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88/"><img src="03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/SUPER%20TREND%20PRO%20MAX%20%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88/assets/cover.png" width="430" alt="SUPER TREND PRO MAX"></a><br>
-<b>SUPER TREND PRO MAX</b><br><sub>趨勢線 ＋ 過去 10 年趨勢延續統計</sub>
+<b>SUPER TREND PRO MAX</b><br><sub>解決的問題：檢查趨勢反轉神器</sub>
 </td>
 <td width="50%" align="center">
 <a href="01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/"><img src="01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/assets/cover.png" width="430" alt="風險偏好性指標"></a><br>
-<b>風險偏好性指標</b><br><sub>攻擊／防守比率，看市場 Risk On／Off</sub>
+<b>風險偏好性指標</b><br><sub>解決的問題：市場資金在衝還是在縮</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <a href="01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/"><img src="01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/assets/cover.png" width="430" alt="大盤融資維持率"></a><br>
-<b>大盤融資維持率</b><br><sub>融資槓桿溫度計，跌破標準線自動填色</sub>
+<b>大盤融資維持率</b><br><sub>解決的問題：檢查全市場散戶熱度</sub>
 </td>
 <td width="50%" align="center">
 <a href="05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/"><img src="05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/assets/cover.png" width="430" alt="處置警示倒數計時器"></a><br>
-<b>處置警示倒數計時器</b><br><sub>處置／注意股解禁天數，5→0 倒數</sub>
+<b>處置警示倒數計時器</b><br><sub>解決的問題：處置股還剩幾天能動</sub>
 </td>
 </tr>
 </table>
