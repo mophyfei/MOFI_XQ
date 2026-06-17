@@ -19,7 +19,7 @@
 
 <br><br>
 
-[![下載腳本](https://img.shields.io/badge/⬇️_下載_腳本_(.xsb)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%20-%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.xsb)
+[![下載腳本](https://img.shields.io/badge/⬇️_下載_腳本_(.xsb)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/DOUBLE%20TYPHOON%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A/03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%20-%20%E9%9B%99%E9%87%8D%E9%A2%B1%E9%A2%A8%20K%20%E7%B7%9A%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.xsb)
 &nbsp;
 [![一鍵匯入工具](https://img.shields.io/badge/🚀_一鍵匯入工具-2563EB?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
 
