@@ -8,7 +8,7 @@
 
 <br>
 
-![腳本](https://img.shields.io/badge/腳本-8_支-3DDC84?style=flat-square)
+![腳本](https://img.shields.io/badge/腳本-9_支-3DDC84?style=flat-square)
 ![分類](https://img.shields.io/badge/分類-5_大觀測面-4C8BF5?style=flat-square)
 ![平台](https://img.shields.io/badge/平台-XQ_全球贏家-00A1E0?style=flat-square)
 ![市場](https://img.shields.io/badge/市場-台股_×_美股-9333EA?style=flat-square)
@@ -53,6 +53,7 @@
 | 📈<br>技術面 | 🆕 **RS STRONGER 相對強弱究極版** | 找出比大盤強、資金比股價先動的領導股 | [📄](03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/RS%20STRONGER%20%E7%9B%B8%E5%B0%8D%E5%BC%B7%E5%BC%B1%E7%A9%B6%E6%A5%B5%E7%89%88/) |<!-- 🆕 added:2026-06-22 -->
 | 💰<br>籌碼面 | _陸續更新中…_ | | |
 | 📅<br>事件面 | **處置警示倒數計時器** | 處置股還剩幾天能動 | [📄](05.%20%E4%BA%8B%E4%BB%B6%E9%9D%A2%E8%A7%80%E6%B8%AC/%E8%99%95%E7%BD%AE%E8%AD%A6%E7%A4%BA%E5%80%92%E6%95%B8%E8%A8%88%E6%99%82%E5%99%A8/) |
+| 🎁<br>番外·其他 | 🆕 **集團股 K 線** | 一眼看一個集團整體是漲是跌 | [📄](06.%20%E7%95%AA%E5%A4%96%EF%BC%8E%E5%85%B6%E4%BB%96%E8%A7%80%E6%B8%AC/%E9%9B%86%E5%9C%98%E8%82%A1%20K%20%E7%B7%9A/) |<!-- 🆕 added:2026-06-24 -->
 
 <sub>🆕 ＝最近 7 天新加入 · 🔒 全部腳本需綁定優惠碼 `@MOFI` 解鎖 · 更多腳本陸續新增中…</sub>
 
