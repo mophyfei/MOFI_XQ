@@ -16,9 +16,15 @@
 
 <br>
 
-<img src="assets/cover.png" width="880" alt="風險偏好性指標：台股版＋美股版看盤頁面">
+<a href="https://www.youtube.com/watch?v=sdPgG9QiWsc">
+  <img src="assets/video-cover.png" width="880" alt="▶️ 風險偏好性指標教學影片 — 點封面前往 YouTube 觀看">
+</a>
 
-<br><br>
+<br>
+
+[![▶️ 點封面看教學影片](https://img.shields.io/badge/▶️_點封面看教學影片-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=sdPgG9QiWsc)
+
+<br>
 
 [![下載指標](https://img.shields.io/badge/⬇️_下載_指標_(.xsb)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/01.%20%E7%92%B0%E5%A2%83%E9%9D%A2%20-%20%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.xsb)
 &nbsp;
@@ -56,6 +62,13 @@
 - **訊號過濾**：同方向只標記第一次，避免連續訊號干擾
 
 用來判讀**大盤層級的資金情緒環境**（屬總經/環境觀測，非個股研判）。
+
+<div align="center">
+<br>
+<img src="assets/cover.png" width="820" alt="風險偏好性指標：台股版＋美股版看盤頁面">
+<br>
+<sub>▲ 懶人包看盤頁面：台股電金比 × 美股 XLY／XLP，匯入即用</sub>
+</div>
 
 ---
 
