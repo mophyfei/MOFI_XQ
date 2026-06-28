@@ -15,9 +15,15 @@
 
 <br>
 
-<img src="assets/cover.png" width="840" alt="SUPER TREND PRO MAX 套用於大盤指數">
+<a href="https://www.youtube.com/watch?v=7aU_t2BRU74">
+  <img src="assets/video-cover.png" width="880" alt="▶️ SUPER TREND PRO MAX 教學影片 — 點封面前往 YouTube 觀看">
+</a>
 
-<br><br>
+<br>
+
+[![▶️ 點封面看教學影片](https://img.shields.io/badge/▶️_點封面看教學影片-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7aU_t2BRU74)
+
+<br>
 
 [![下載腳本](https://img.shields.io/badge/⬇️_下載_腳本_(.xsb)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A7%80%E6%B8%AC/SUPER%20TREND%20PRO%20MAX%20%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88/03.%20%E6%8A%80%E8%A1%93%E9%9D%A2%20-%20%E8%B6%85%E7%B4%9A%E8%B6%A8%E5%8B%A2%E7%89%B9%E5%8C%96%E7%89%88%20SUPER%20TREND%20PRO%20MAX%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.xsb)
 &nbsp;
@@ -51,6 +57,13 @@
 - **歷史延續機率**：過去該趨勢在「其後 M 日」內未發生翻轉的歷史比率（純歷史統計）
 
 讓你在看趨勢線的同時，也能對照這檔標的過去的趨勢統計特性。
+
+<div align="center">
+<br>
+<img src="assets/cover.png" width="820" alt="SUPER TREND PRO MAX 套用於大盤指數">
+<br>
+<sub>▲ 套用於大盤指數：趨勢線畫在主圖、歷史統計顯示在左側數值欄</sub>
+</div>
 
 ---
 
