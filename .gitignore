@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# 暫存 / 備份
+*.bak
+*.tmp
+~$*
+
+# 個人筆記（不公開）
+_private/
+*_私人*.md
+
+# XScript 明碼原始碼（只給 Claude 看，不公開散布；散布用 .xsb）
+*.xs
+
+# 匯入工具 exe（75MB，只走 GitHub Releases，不進 repo 避免倉庫肥大）
+*.exe
+
+# Claude 本地工具與專案工作指引（不公開）
+.claude/
+CLAUDE.md
