@@ -27,3 +27,16 @@ CLAUDE.md
 
 # TradingView Pine Script 移植版（本機自用，永不公開散布）
 99. TRADINGVIEW/
+
+# 指標規格與算法說明（受管制，永不公開）
+*規格*.md
+*排名方式說明*.md
+
+# Pine Script 移植版與 TradingView 發佈稿（散落在各分類資料夾裡的也要擋）
+*.pine
+*.PINE
+*TradingView 發佈說明*.md
+
+# 內部測試與開發筆記
+_XQ 繪圖能力探路測試/
+docs/
